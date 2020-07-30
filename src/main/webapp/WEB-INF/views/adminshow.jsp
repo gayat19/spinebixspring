@@ -7,6 +7,6 @@
 <title>After Login</title>
 </head>
 <body>
-	<h1>${message}</h1>
+	<h1>Welcome -${adminuser.un}</h1>
 </body>
 </html>

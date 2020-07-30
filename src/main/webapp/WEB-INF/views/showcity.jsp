@@ -9,5 +9,6 @@
 <body>
 		<h1>City page</h1>
 		<h1>${city}</h1>
+		<h1>${phone}</h1>
 </body>
 </html>
